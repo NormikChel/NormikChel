@@ -1,7 +1,7 @@
 # ЕБАТЬ ВСЕМ ПРИВЕТ С ВАМИ НЕДОЮТУБЕР ДЖИФАСИ!
 
 ## 🛠 Мой стек технологий:
-*   **Языки:** ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+*   **Языки:** ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 *   **Инструменты:** Git, Node.js
 
 ## 📈 Моя статистика на GitHub:
