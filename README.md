@@ -8,5 +8,5 @@
 [![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ivanov-ivan)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=NormikChel))
 
 ## 🔗 Свяжитесь со мной:
-*   Telegram: [@ivanov](https://t.me/Normik_Chel)
-*   Почта: ivanov@example.com
+*   Telegram: [@Normik_Chel](https://t.me/Normik_Chel)
+*   Почта: nenormikchel@gmail.com
