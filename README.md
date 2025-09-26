@@ -8,5 +8,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormikChel)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Свяжитесь со мной:
-*   Telegram: [@Normik_Chel](https://t.me/Normik_Chel)
-*   Почта: nenormikchel@gmail.com
+* [![Telegram](https://img.shields.io/badge/Telegram-@Normik_Chel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Normik_Chel)
+* [![Gmail](https://img.shields.io/badge/Gmail-nenormikchel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nenormikchel@gmail.com)
